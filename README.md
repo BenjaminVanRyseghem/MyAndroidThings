@@ -36,7 +36,5 @@ See <http://directory.fsf.org/wiki/License:X11> for more details
 
 
 -----------------------------------------------------------------------------------------------------------------
-Download ZIP
------------------------------------------------------------------------------------------------------------------
-https://github.com/adfit11/MyAndroidThings/archive/master.zip
+Download ZIP [here](https://github.com/BenjaminVanRyseghem/MyAndroidThings/archive/master.zip)
 -----------------------------------------------------------------------------------------------------------------
